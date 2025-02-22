@@ -1,0 +1,29 @@
+<root>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;root&gt;&lt;intro&gt;&lt;title&gt;The Recipe&lt;/title&gt;
+
+&lt;name&gt;Shrewsbury Cakes.&lt;/name&gt;
+
+&lt;/intro&gt;&lt;ogRecipe&gt;&lt;p&gt;&lt;step key="1"&gt;Take a pound of fresh &lt;ing&gt;butter&lt;/ing&gt; a pound of double&lt;/step&gt;
+refind &lt;ing&gt;sugar&lt;/ing&gt; sifted fine a little beaten
+mace &amp; &lt;step key="2"&gt;4 &lt;ing&gt;eggs&lt;/ing&gt; beat them all together with.
+your hands till tis very leight&lt;/step&gt; &amp; looks
+curdling you put thereto &lt;step key="3"&gt;a pound &amp; 1/2 of
+&lt;ing&gt;flower&lt;/ing&gt; roul them out into little cakes&lt;/step&gt;&lt;/p&gt;&lt;/ogRecipe&gt;
+
+&lt;newRecipe&gt;Our recipe (halved from the original)
+
+&lt;l1&gt;&lt;ing&gt;1/2 lb. (2 sticks) butter, softened&lt;/ing&gt;
+&lt;ing&gt;1/2 lb. sugar&lt;/ing&gt;
+&lt;ing&gt;1/4 tsp. mace&lt;/ing&gt;
+&lt;ing&gt;1/2 tsp. cinnamon&lt;/ing&gt;
+&lt;ing&gt;2 eggs&lt;/ing&gt;
+&lt;ing&gt;3/4 lb. flour&lt;/ing&gt;&lt;/l1&gt;
+
+Using an electric mixer, &lt;step key="1"&gt;cream together the &lt;ing&gt;butter &lt;/ing&gt;and &lt;ing&gt;sugar&lt;/ing&gt;&lt;/step&gt;. Then &lt;step key="2"&gt;add the &lt;ing&gt;eggs&lt;/ing&gt; and mix at medium speed until the mixture looks curdled&lt;/step&gt;. &lt;step key="3"&gt;Sift together dry ingredients and add at low speed until just combined&lt;/step&gt;. &lt;step key="4"&gt;Scoop and roll the &lt;ing&gt;dough&lt;/ing&gt; by hand into 1-tbsp. balls, then pat flat&lt;/step&gt;. [You could also &lt;step key="5"&gt;refrigerate the &lt;ing&gt;dough&lt;/ing&gt; until it’s firm enough to roll out on a flat surface and cut out into rounds&lt;/step&gt;.]
+
+&lt;step key="6"&gt;Bake  at 350F for 15-18 minutes&lt;/step&gt; (ours were about 1/3″ thick, so you could roll them thinner and have a slightly shorter cooking time) They’re done once they turn the slightest bit brown around the edges. This halved recipe yielded about two dozen &lt;result&gt;cookies&lt;/result&gt;.&lt;/newRecipe&gt;
+
+&lt;outro&gt;The Results
+
+If you like snickerdoodles (and who doesn’t?), you’d like these. We added the &lt;ing&gt;cinnamon&lt;/ing&gt; because we like it and couldn’t resist, and we thought it rounded out the &lt;ing&gt;mace&lt;/ing&gt; nicely. These are mild, fairly soft &lt;result&gt;cookies&lt;/result&gt; that are great with tea. We rolled and patted the &lt;ing&gt;dough&lt;/ing&gt; into individual &lt;result&gt;cookies&lt;/result&gt; because it was too soft and stick to roll out, but a little bit more &lt;ing&gt;flour&lt;/ing&gt; and a stint in the &lt;obj&gt;fridge&lt;/obj&gt; might make the &lt;ing&gt;dough&lt;/ing&gt; easier to work with a &lt;obj&gt;rolling pin&lt;/obj&gt;.&lt;/outro&gt;
+&lt;/root&gt;</root>
