@@ -1,6 +1,6 @@
 nlp = spacy.load("en_core_web_lg")
 
-filepath = 'hughes-txt/sixteen.txt'
+filepath = 'DIGIT210/spacy/grimm.txt'
 f = open(filepath, 'r', encoding='utf8').read()
 spacyRead = nlp(f)
 for token in spacyRead:
