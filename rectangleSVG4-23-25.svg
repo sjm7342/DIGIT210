@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <rect x="0" y="10" width="80" height="80" fill="rgb(255, 87, 51)" />
+    <rect x="90" y="10" width="80" height="80" fill="rgb(51, 255, 87)" />
+    <rect x="180" y="10" width="80" height="80" fill="rgb(51, 87, 255)" />
+    <rect x="270" y="10" width="80" height="80" fill="rgb(241, 196, 15)" />
+    <rect x="360" y="10" width="80" height="80" fill="rgb(155, 89, 182)" />
+    <rect x="450" y="10" width="80" height="80" fill="rgb(26, 188, 156)" />
+    <text x="20" y="120" font-size="20" fill="black">Some SVG I made hand-drawn using a variety of colors.</text>
+</svg>
